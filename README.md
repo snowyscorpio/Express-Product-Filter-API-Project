@@ -5,10 +5,11 @@ This repository contains a solution to an API exercise using Node.js and Express
 ## Exercise: Create an API to Filter Products by Price
 
 ### Requirements:
-1. Create a project folder named `Express_Task_8`.
+1. Create a project folder for the application.
 2. Inside the folder:
    - Create a `data.js` file containing product data.
    - Create an `app.js` file to implement the server and API logic.
+   - Include a `package.json` file to manage dependencies.
 3. Implement the following API route:
    - `GET /products/:productPrice`: Returns all products with a price greater than the value specified in `:productPrice` as JSON.
 

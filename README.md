@@ -15,7 +15,7 @@ This repository contains a solution to an API exercise using Node.js and Express
 
 ### Project Structure:
 ```plaintext
-Express_Task_8/
+Express-Product-Filter-API-Project/
 ├── app.js
 ├── data.js
 ├── package.json

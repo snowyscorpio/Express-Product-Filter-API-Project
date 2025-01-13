@@ -38,11 +38,11 @@ Express_Task_8/
 
 ### How to Run:
 1. Clone the repository.
-2. Navigate to the project directory:
+2. Open the project directory.
+3. Install Node.js and the necessary dependencies:
    ```bash
-   cd Express_Task_8
+   npm install
    ```
-3. Install Node.js if not already installed.
 4. Start the server:
    ```bash
    npm start
